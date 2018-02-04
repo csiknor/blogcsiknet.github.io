@@ -27,7 +27,7 @@ _Megjegyzes: A poszt cimeből kovetkező 1-2. resz nem letezik irasos formaban._
 
 Annak idejen az első voltam az ismerőseim koreben, aki Mozilla Firefoxrol Google Chromera valtott. Nagyon megtetszett mar első latasra a bongesző letisztult felulete, gyorsasaga es funkcioi.
 
-[![Google_chrome](/images/google_chrome-scaled1000-w=300.png)](/images/google_chrome-scaled1000.png)
+[![Google_chrome]({{site.baseurl}}/images/google_chrome-scaled1000-w=300.png)]({{site.baseurl}}/images/google_chrome-scaled1000.png)
 
 Aztan nem is olyan regen, talan par honapja - amikor a Mozilla kicsit eszbe kapott es nagyobb fokozatra kapcsolta a fejlesztest - visszatertem a jo oreg Firefoxra, mert ugy ereztem, hogy a Chrome tul sok memoriat zabal.
 

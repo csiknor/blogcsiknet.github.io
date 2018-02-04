@@ -27,7 +27,7 @@ Internetről nem almodunk, egesz jo a Mobilnet, kar, hogy korlatos, de megvette 
 
 Erre, mind derult egből a villamcsapas jon ez a tokos romaniai magyar csavo, es behuzza a kabelet az utcaba, sőt, mi tobb az egesz kornyekre. Aztan tesz egy olyan visszautasithatatlan ajanlatot, hogy keptelen vagyok ellenalni: **4200-ert havonta: MINDEN.** (Az apro betűs reszbe: 80 csatorna, 20/10(!) Mbit, telefon <- ez egyebkent mi?)
 
-[![Tabl30_](/images/tabl30_-jpeg-scaled1000-w=300.jpg)](/images/tabl30_-jpeg-scaled1000.jpg)
+[![Tabl30_]({{site.baseurl}}/images/tabl30_-jpeg-scaled1000-w=300.jpg)]({{site.baseurl}}/images/tabl30_-jpeg-scaled1000.jpg)
 
 Digi, FTW!
 

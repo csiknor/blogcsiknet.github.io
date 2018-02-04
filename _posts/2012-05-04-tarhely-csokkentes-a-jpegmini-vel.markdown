@@ -19,7 +19,7 @@ tags:
 
 Amikor indult felkeltette a figyelmem a JPEGmini igerete. Tudniilik azt allitottak, hogy kulonosebb minősegromlas nelkul tudjak ugy optimalizalni a JPEG fenykepeinket, hogy radikalisan kevesebb helyet foglaljanak. Ket kepet probaltam, azoknal nagyjabol 30%-ra csokkentette a fajlok meretet. Ez mar valami!
 
-[![Jpegmini](/images/jpegmini-scaled1000-w=300.png)](/images/jpegmini-scaled1000.png)
+[![Jpegmini]({{site.baseurl}}/images/jpegmini-scaled1000-w=300.png)]({{site.baseurl}}/images/jpegmini-scaled1000.png)
 
 Én ugyan nem tudom elekpzelni azt, hogy a sajat fenykepeimen hasznaljam a szolgaltatast - egyreszt, mert minel tobb reszletet szeretnek megőrizni az orokkevalosagnak, masreszt RAW formatumban tarolom a kepeket -, de azt hiszem, hogy lenne jovője ennek a szolgaltatasnak.
 

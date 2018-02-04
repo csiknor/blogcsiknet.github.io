@@ -23,7 +23,7 @@ tags:
 
 Módosítottam a [korábbi billentyűzet kiosztásom](http://blog.csik.net/2011/07/07/mac-magyar-billentyuzet-kiosztas-windows-modr/). Egyrészt pótoltam néhány hiányzó karaktert, másrészt kibővítettem olyanokkal, amiket kellene használni, de alapesetben nincs a billentyűzeten. Lásd a [magyar írásjelekről szóló korábbi bejegyzésem](http://blog.csik.net/2013/05/30/pusztulnak-az-irasjelek-ha-nincsenek-a-billentyuzeten/)!
 
-[![Alt módosítóval](/images/alt-w=580.png)](/images/alt.png)
+[![Alt módosítóval]({{site.baseurl}}/images/alt-w=580.png)]({{site.baseurl}}/images/alt.png)
 
 Alt (⌥) módosítóval bekerült még pár hasznos deviza karakter, és kikerült, ami nem tartozik oda.
 
@@ -46,7 +46,7 @@ A megvalósításban segítségemre volt, hogy megtudtam azt, hogy az AltGr mód
 
 Így alkalmazva az Alt (⌥) és Shift (⇧) kombinációt újabb karaktereket vezettem be. Elsősorban olyanokat, amiket a magyar nyelvben és úgy általában a mindennapokban kell használnunk.
 
-[![Alt Shift](/images/alt-shift-w=580.png)](/images/alt-shift.png)
+[![Alt Shift]({{site.baseurl}}/images/alt-shift-w=580.png)]({{site.baseurl}}/images/alt-shift.png)
 
 Ezzel a módosító párral elérhetővé válnak a következő karakterek:
 

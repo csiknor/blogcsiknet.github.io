@@ -18,7 +18,7 @@ tags:
 - raiffeisen
 ---
 
-[![Screen_shot_2011-07-12_at_10](/images/screen_shot_2011-07-12_at_10-34-24_pm-scaled1000-w=300.png)](/images/screen_shot_2011-07-12_at_10-34-24_pm-scaled1000.png)
+[![Screen_shot_2011-07-12_at_10]({{site.baseurl}}/images/screen_shot_2011-07-12_at_10-34-24_pm-scaled1000-w=300.png)]({{site.baseurl}}/images/screen_shot_2011-07-12_at_10-34-24_pm-scaled1000.png)
 
 A Raiffeisen reklamja mar az első alkalmak soran kiverte nalam a biztositekot, mert akkora faszsag, hogy minden hulye megeszi elsőre.
 

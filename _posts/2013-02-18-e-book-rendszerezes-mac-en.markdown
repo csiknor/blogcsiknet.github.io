@@ -19,7 +19,7 @@ Ahogy egyre több e-bookra teszek szert, időről időre felmerül bennem a rend
 
 Nagyon közel voltam ahhoz, hogy megvegyem ezt a minden bizonnyal nagyszerű, ráadásul magyar [Scida](http://getscida.com/) alkalmazást, amivel a Kindle könyveit lehet rendszerezni egy nagyon szép felületről. Ebben sokat segített az is, hogy 10 dollárról 6-ra csökkentették az árát.
 
-[![Scida app screenshot](/images/scida_screenshot_01-w=580.png)](/images/scida_screenshot_01.png)
+[![Scida app screenshot]({{site.baseurl}}/images/scida_screenshot_01-w=580.png)]({{site.baseurl}}/images/scida_screenshot_01.png)
 
 Egyelőre viszont úgy döntöttem, hogy nincs erre szükség, mivel még nem kritikus a könyvek száma, nem éri el azt a szintet, hogy egy külön szoftver kelljen a rendszerezésre. Bőven elég még egy szépen felépített könyvtárstruktúra a rendhez.
 
