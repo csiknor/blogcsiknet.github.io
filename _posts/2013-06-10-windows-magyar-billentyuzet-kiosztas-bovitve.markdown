@@ -26,7 +26,7 @@ A változtatást a Microsoft adta [Microsoft Keyboard Layout Creator](http://ms
 
 Hasonló változtatásokat végeztem el, mint korábban.
 
-[![Magyar billentyűzet kiosztás, AltGr+Shift](http://csiknet.files.wordpress.com/2013/06/magyar_bshftaltgr.jpg?w=580)](http://csiknet.files.wordpress.com/2013/06/magyar_bshftaltgr.jpg)
+[![Magyar billentyűzet kiosztás, AltGr+Shift](/images/magyar_bshftaltgr-w=580.jpg)](/images/magyar_bshftaltgr.jpg)
 
 Telepítés után átváltva az új kiosztásra elérhetők az új karakterek:
 

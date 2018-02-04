@@ -23,7 +23,7 @@ _Folytatodik az [otthoni media rendszer](/otthoni-media-szerver-a-terv) osszeall
 
 Beszerzesre kerult a korabban tervezett NAS: D-Link DNS-320. Hozza egyelőre csak 1 darab Samsung SpinPoint F4EG 2TB (HD204UI) merevlemez. (Utobbi pusztan megszoritasbol, egyelőre nem tartozik az alapellatasba a NAS.)
 
-[![Dns-320_l](http://csiknet.files.wordpress.com/2011/09/dns-320_l-scaled1000.jpg?w=300)](http://csiknet.files.wordpress.com/2011/09/dns-320_l-scaled1000.jpg)
+[![Dns-320_l](/images/dns-320_l-scaled1000-w=300.jpg)](/images/dns-320_l-scaled1000.jpg)
 
 A termek osszeszerelese szerintem barkinek menne, aki nem ilyed meg a nyomtatott aramkor latvanyatol, annyira egysszerű:
 

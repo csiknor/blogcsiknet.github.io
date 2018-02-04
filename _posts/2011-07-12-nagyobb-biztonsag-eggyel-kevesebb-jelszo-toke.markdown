@@ -27,7 +27,7 @@ A legtobb bank megoldja ezt kulonboző eszkozokkel, de mivel nem akarjak nagyon 
 
 Mivel a jelszo egy eleg rossz eszkoz (kitalalhato, visszafejthető, leirhato) celszerű olyan megoldast alkalmazni, ami ezt kivaltja. Az egyik elterjedt megoldas a felhasznalonev, jelszo parost kiegeszitő SMS-ben erkező kod. Nem vagyok nagy biztonsagi szakember, de azt hiszem nem tevedek nagyot, ha ugy gondolom, hogy alkalmas eszkozzel ezek a mobilra erkező informaciok lehallgathatok. Bar nagy mertekben javitjak a jelszoval elerhető biztonsagot atlagos felhasznalas eseten, de megsem adnak kellő biztonsagot.
 
-![Dp250_hires](http://csiknet.files.wordpress.com/2011/07/dp250_hires-scaled500.jpg)
+![Dp250_hires](/images/dp250_hires-scaled500.jpg)
 
 Egy masik megoldas az un. [token](http://en.wikipedia.org/wiki/Security_token) alkalmazasa. Ez egy kis szamologephez hasonlo eszkoz (gombokkal, vagy anelkul), ami egy előre meghatarozott algoritmus alapjan egy pszeudoveletlen kodot general. Az előre meghatarozott algoritmus segitsegevel ugyanezt a kodot a bank is legeneralja a szerverein, igy azonosit be minket. Segitsegevel a szo szerint a kezunkben tudjuk tartani a belepő kulcsot a bankba.
 

@@ -32,7 +32,7 @@ Az asztali gepem is egy ilyen regi vas, amikor vettem, meg 1GB memoria jart hozz
 
 Így is volt, egeszen mostanaig, az utobbi időben mar gyakori volt, hogy el-elfogy a memoria, irdatlan swappelesbe kezd a gep. Egyertelmű volt, hogy lepni kell. Szerencsere a [specifikacio](http://support.apple.com/kb/SP28) alapjan lehetősegem van a bővitesre egeszen 4GB-ig, viszont a leiras alapjan ebből csak harmat fogok latni.[
 
-![Ht1432_1-imac_late2006-remove_memory_panel-001-en](http://csiknet.files.wordpress.com/2011/11/ht1432_1-imac_late2006-remove_memory_panel-001-en-scaled500.jpg)![Ht1432_8-imac_late2006-remove_memory_module-001-en](http://csiknet.files.wordpress.com/2011/11/ht1432_8-imac_late2006-remove_memory_module-001-en-scaled500.jpg)
+![Ht1432_1-imac_late2006-remove_memory_panel-001-en](/images/ht1432_1-imac_late2006-remove_memory_panel-001-en-scaled500.jpg)![Ht1432_8-imac_late2006-remove_memory_module-001-en](/images/ht1432_8-imac_late2006-remove_memory_module-001-en-scaled500.jpg)
 
 ](http://www.laptopmag.com/advice/how-to/msi-wind-ram.aspx)
 

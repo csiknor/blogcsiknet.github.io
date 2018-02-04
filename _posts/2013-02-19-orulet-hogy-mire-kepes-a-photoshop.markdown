@@ -17,7 +17,7 @@ tags:
 - photoshop
 ---
 
-[![Doom](http://csiknet.files.wordpress.com/2013/03/doom___pinky_demon_blocks_the_exit_by_elemental79-d5unxbd.jpg?w=580)](http://csiknet.files.wordpress.com/2013/03/doom___pinky_demon_blocks_the_exit_by_elemental79-d5unxbd.jpg)
+[![Doom](/images/doom___pinky_demon_blocks_the_exit_by_elemental79-d5unxbd-w=580.jpg)](/images/doom___pinky_demon_blocks_the_exit_by_elemental79-d5unxbd.jpg)
 
 Már rögtön a címben lelőttem a poént. Ezt a képet – ami egyébként egy remek DOOM aktualizálás – nem 3D tervező programban készítették, hanem szépen létrehozták darabokból, különböző képek, képrészletek manipulálásával, Photoshopban.
 

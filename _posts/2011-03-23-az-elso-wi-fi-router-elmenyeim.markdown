@@ -23,7 +23,7 @@ Korabban is aktiv Wi-Fi felhasznalo voltam, de ezt jobbara az iMac  altal Wi-Fi-
 
 ### A termek
 
-![Tl-wr741nd](http://csiknet.files.wordpress.com/2011/03/tl-wr741nd-scaled500.jpg)
+![Tl-wr741nd](/images/tl-wr741nd-scaled500.jpg)
 
 Így  elkezdtem kicsit utanajarni a termekeknek, meg a piacnak. Egy fontos  tenyező volt a vasarlasnal: az ar. Szerettem volna minel olcsobban,  minel tobbet kihozni, de inkabb olcso legyen. Így esett a valasztas a [TP-LINK TL-WR741ND](http://www.tp-link.com/en/products/prodetail.aspx?mid=010303010201&id=578) keszulekre.
 

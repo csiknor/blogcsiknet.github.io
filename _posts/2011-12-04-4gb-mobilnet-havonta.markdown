@@ -21,7 +21,7 @@ Nos, nem sokra eleg.
 
 Persze minden attol fugg, hogy az ember mire hasznalja es főleg mennyit. Ha csak hebe-hoba hasznalja vele az internetet az ember ha epp nincs otthon, xDSL kozelben, akkor meg akar eleg is lehet.
 
-![E1750](http://csiknet.files.wordpress.com/2011/12/e1750-jpeg-scaled500.jpg)
+![E1750](/images/e1750-jpeg-scaled500.jpg)
 
 Viszont azt kell mondanom, hogy elsődleges internet-hozzaferesnek csak erős korlatokkal alkalmazhato. Ezek a korlatok pedig a teljesseg igenye nelkul a kovetkezőek:
 

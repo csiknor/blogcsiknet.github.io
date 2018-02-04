@@ -31,7 +31,7 @@ Tanyeros tevet nem veszek. Akkor mar inkabb a kabel. Így viszont marad a hagyom
 
 [
 
-[![Mindigtv_logo](http://csiknet.files.wordpress.com/2011/09/mindigtv_logo-scaled1000.jpg?w=300)](http://csiknet.files.wordpress.com/2011/09/mindigtv_logo-scaled1000.jpg)
+[![Mindigtv_logo](/images/mindigtv_logo-scaled1000-w=300.jpg)](/images/mindigtv_logo-scaled1000.jpg)
 
 ](http://muholdvetel.hu/product.php?id_product=69)A MinDig TV majdnem nekem van kitalalva:
 
@@ -50,7 +50,7 @@ Mivel az otthoni media rendszeremnek csak egyik eleme a TV, igy gondolnom kell a
 
 Ahogy lattam, ezen a teruleten a nagy gyartok nem kepviseltetik magukat agyon, igy szamomra nevenincs gyartok termekei kozul kellett valasztanom. Ezek alapjan jelenleg a [Ferguson Ariva 120 Combo](http://www.ferguson-digital.eu/de/ariva-hd/294-ariva-120-combo.html) keszuleke tűnik nyerőnek.[
 
-[![120_zlacza_eng](http://csiknet.files.wordpress.com/2011/09/120_zlacza_eng-scaled1000.jpg?w=300)](http://csiknet.files.wordpress.com/2011/09/120_zlacza_eng-scaled1000.jpg)
+[![120_zlacza_eng](/images/120_zlacza_eng-scaled1000-w=300.jpg)](/images/120_zlacza_eng-scaled1000.jpg)
 
 ](http://muholdvetel.hu/product.php?id_product=69)
 
@@ -64,7 +64,7 @@ Ahogy lattam, ezen a teruleten a nagy gyartok nem kepviseltetik magukat agyon, i
 
 [
 
-[![Ariva120_combo_icons](http://csiknet.files.wordpress.com/2011/09/ariva120_combo_icons-scaled1000.jpg?w=300)](http://csiknet.files.wordpress.com/2011/09/ariva120_combo_icons-scaled1000.jpg)
+[![Ariva120_combo_icons](/images/ariva120_combo_icons-scaled1000-w=300.jpg)](/images/ariva120_combo_icons-scaled1000.jpg)
 
 ](http://muholdvetel.hu/product.php?id_product=69)Nem tudok egyelőre sokat rola, meg egy tesztet sem olvastam, csak a parametereit neztem. Jo lenne tudni, hogy milyen fajlrendszereket kepes kezelni halozatrol, milyen gyors a halozati csatoloja, kepes-e halozatra felvenni stb.
 

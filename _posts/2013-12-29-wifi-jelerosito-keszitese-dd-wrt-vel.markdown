@@ -20,7 +20,7 @@ Adott egy Wifi-fel lefedett ház, ahol a wifi router helye fix az UTP végpontok
 
 A megoldás egy Wifi jelerősítő beépítése a rendszerbe. Lehet ilyeneket kapni is, viszont nekem úgy esett, hogy visszakerült hozzám egy régi TP-Link TL-WR741ND Wifi routerem, gondoltam ezzel majd megoldom a jelerősítést. Persze, ágyúval verébre, de ha épp ilyen van itthon, hát épp ilyen van itthon.
 
-[![Repeater_Bridge](http://csiknet.files.wordpress.com/2013/12/repeater_bridge.jpg?w=580)](http://csiknet.files.wordpress.com/2013/12/repeater_bridge.jpg)
+[![Repeater_Bridge](/images/repeater_bridge-w=580.jpg)](/images/repeater_bridge.jpg)
 
 Segítségül hívtam a DD-WRT adta lehetőségeket és már úton is voltam a [Repeater Bridge](http://www.dd-wrt.com/wiki/index.php/Repeater_Bridge) építése felé.
 

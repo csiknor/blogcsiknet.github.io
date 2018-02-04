@@ -17,7 +17,7 @@ tags:
 
 Kézzel törölni pillanatképeket a Time Machine biztonsági mentésből kétféleképpen is lehet. A legegyszerűbb természetesen, ha fogjátok magát a Time Machine grafikus felületét, kiválasztjátok a jobboldali idősávban a kívánt mentést, majd a fogaskerék ikonra kattintva kéritek a pillanatkép törlését.
 
-![backup-2](https://csiknet.files.wordpress.com/2016/01/backup-2.png)
+![backup-2](/images/backup-2.png)
 
 Sok pillanatkép esetében viszont ez elég fárasztó lehet, ilyenkor a jó öreg parancssoros felület siet a segítségünkre. A Terminal alkalmazást elindítva a következő paranccsal kilistázható az összes pillanatkép.
 

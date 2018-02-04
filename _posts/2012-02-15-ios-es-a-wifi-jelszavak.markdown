@@ -23,7 +23,7 @@ tags:
 
 Biztos csak azert van, mert Jailbreak van a telefonon, de semmi perc alatt meg tudtam nezni, hogy milyen jelszavak lettek elmentve az egyes WiFi hozzaferesekhez.
 
-![Screenshot2](http://csiknet.files.wordpress.com/2012/02/screenshot2-scaled500.png)
+![Screenshot2](/images/screenshot2-scaled500.png)
 
 Nem kellett mas, mint a [WiFi Passwords](http://www.malcolmhall.com/products/wifipasswords/) alkalmazas, amit a Cydia-bol telepitve par erintes utan mar lattam is a puritan, ellenben annal hasznosabb feluletet.
 

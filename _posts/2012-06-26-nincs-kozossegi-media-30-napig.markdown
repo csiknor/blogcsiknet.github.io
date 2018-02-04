@@ -25,7 +25,7 @@ Meg junius 18-an olvastam egy cikket, amiben a szerző azt ecsetelte, hogy - bar
 > 
 > -- ⠠⠉⠎⠊⠅ ⠠⠝⠕⠗⠃⠑⠗⠞ (@csiknor) [June 18, 2012](https://twitter.com/csiknor/status/214823497258639360)</blockquote>
 
-[![09_14_socialmediaban-530x394](http://csiknet.files.wordpress.com/2012/06/09_14_socialmediaban-530x394-jpeg-scaled1000.jpg?w=300)](http://csiknet.files.wordpress.com/2012/06/09_14_socialmediaban-530x394-jpeg-scaled1000.jpg)
+[![09_14_socialmediaban-530x394](/images/09_14_socialmediaban-530x394-jpeg-scaled1000-w=300.jpg)](/images/09_14_socialmediaban-530x394-jpeg-scaled1000.jpg)
 
 A bongesző eszkozsavjabol egy ☠ nevű konyvtarba raktam a kerdeses weboldala cimet, a telefonomon pedig egyreszt szinten egy "Karanten" nevű csoportba raktam az osszes ilyen alkalmazast, tovabba minden kapcsolodo push notification-t kikapcsoltam.
 

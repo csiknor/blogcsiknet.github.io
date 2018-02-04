@@ -23,7 +23,7 @@ tags:
 
 Az embernek rengeteg feladata van nap, mint nap, mind a szemelyes, mind uzleti eletben. Ezek jelentős reszeről jobb nem megfeledkezni. Ezt nem olyan konnyű megoldani, ha az embernek rengeteg minden jar a fejeben.
 
-![20071126-todo-list](http://csiknet.files.wordpress.com/2012/01/20071126-todo-list-scaled500.png)
+![20071126-todo-list](/images/20071126-todo-list-scaled500.png)
 
 Mar egy jo ideje az alabbi kombinacioval dolgozok:
 

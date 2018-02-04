@@ -23,13 +23,13 @@ _Folytatodik az [otthoni media rendszer](http://blog.csik.net/otthoni-media-szer
 
 Az elkepzelesnek megfelelően egy [Super DVB-T Emme Esse](http://muholdvetel.hu/product.php?id_product=69) tv-antenna (7900 Ft) kerult beszerzesre. A cel az volt, hogy egy nagy nyereseggel rendelkező antennat szereljunk fol, melyet erősitővel tovabb javitunk.
 
-![Antenna](http://csiknet.files.wordpress.com/2011/10/antenna-scaled500.jpg)
+![Antenna](/images/antenna-scaled500.jpg)
 
 Az erősites mar csak azert is indokolt, mert az elkepzelesem szerint nem a tetőre, hanem a padlasterbe terveztem felallitani az antennat. Nem is akarmilyen padlasterbe: badogtető ala.
 
 Tobben ova intettek ettől az elkepzelestől, bennem is megvolt az aggodalom, keszultem is B-tervvel, de el kell mondanom, hogy eddig a lehető legjobban alakul a projekt. Mar erősitő nelkul produkalja a termek azt a minőseget, amit eddig 40 dB-re erősitett szobaantennaval sem tudtam produkalni. A kep atlagban 90%-os minősegű a foghato harom csatornara osszesitve.
 
-[![Antenna-kabel-tv-erosito](http://csiknet.files.wordpress.com/2011/10/antenna-kabel-tv-erosito-scaled1000.jpg?w=300)](http://csiknet.files.wordpress.com/2011/10/antenna-kabel-tv-erosito-scaled1000.jpg)
+[![Antenna-kabel-tv-erosito](/images/antenna-kabel-tv-erosito-scaled1000-w=300.jpg)](/images/antenna-kabel-tv-erosito-scaled1000.jpg)
 
 A digitalis vetelhez viszont szuksegem lesz megfelelő minősegű adasra, igy a jelet egy Discern CATV SIGNAL szelessavu erősitővel erősitem. Ennek beszerzese folyamatban van, nem sietek el semmit.
 

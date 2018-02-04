@@ -18,7 +18,7 @@ tags:
 
 Az új iMac-hez új billentyűzet is járt, ami merőben más, mint a korábban megszokott: pici, numerikus billentyűzet nélküli verzió. Tulajdonképpen egy notebook billentyűzetet kaptam az asztali géphez. Mivel úgy általában a notebook billentyűzeteket nem szeretem, nagyon kíváncsi voltam, hogy mennyire fog beválni. Itt vannak az első visszajelzéseim.
 
-![Apple Keyboard](http://csiknet.files.wordpress.com/2013/04/pasted-graphic-2.png?w=580)
+![Apple Keyboard](/images/pasted-graphic-2-w=580.png)
 
 Röviden úgy foglalnám össze, hogy bár még küzdök vele, kezdem megszeretni. Egyrészt szép, pici, modern, jól összerakott készülék. Könnyű, vezeték nélküli kivitele miatt jól hordozható, ha épp kicsit mozdítani kell. Jó gombjai vannak, könnyen, gyorsan és csendben lehet vele gépelni.
 

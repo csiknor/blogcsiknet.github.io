@@ -36,7 +36,7 @@ Pedig nekem pont erre lenne szuksegem, az adataim ugyanis az iMac belső meghajt
   * lehet szűrőket definialni, hogy bizonyos dolgokat ne mentsen (vagy, hogy csak bizonyos dolgokat mentsen)
   * lehet vele menteni lemezre, szalagra, optikai meghajtora, halozatra es ezek tetszőleges kombinaciojara
 
-[![Retrospect_dashboard](http://csiknet.files.wordpress.com/2011/11/retrospect_dashboard.png)](http://csiknet.files.wordpress.com/2011/11/retrospect_dashboard.png)[![Retrospect_sources](http://csiknet.files.wordpress.com/2011/11/retrospect_sources-scaled1000.png?w=300)](http://csiknet.files.wordpress.com/2011/11/retrospect_sources-scaled1000.png)[![Retrospect_media_sets](http://csiknet.files.wordpress.com/2011/11/retrospect_media_sets-scaled1000.png?w=300)](http://csiknet.files.wordpress.com/2011/11/retrospect_media_sets-scaled1000.png)
+[![Retrospect_dashboard](/images/retrospect_dashboard.png)](/images/retrospect_dashboard.png)[![Retrospect_sources](/images/retrospect_sources-scaled1000-w=300.png)](/images/retrospect_sources-scaled1000.png)[![Retrospect_media_sets](/images/retrospect_media_sets-scaled1000-w=300.png)](/images/retrospect_media_sets-scaled1000.png)
 
 Gyakorlatilag ez a legnagyobb baja is, hogy tul sokat tud. Mire az ember megismeri, beuzemeli lemegy a nap. Nem is egyszer.
 

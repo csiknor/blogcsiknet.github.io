@@ -25,7 +25,7 @@ Tekintve, hogy sikerult egy jo gyors (20/10) internet kapcsolatot letesiteni ott
 
 Mivel a NAS egesz nap megy, az internet eleg gyors, mar csak azt mellett megoldanom, hogyan tudom biztonsagosan elerni az otthoni halozatot. Erre adodott is hamar a valasz: virtualis maganhalozatot (VPN) kell letesitenem a WiFi router segitsegevel.
 
-[![Vpngraphic_final51](http://csiknet.files.wordpress.com/2012/08/vpngraphic_final51-scaled1000.png?w=300)](http://csiknet.files.wordpress.com/2012/08/vpngraphic_final51-scaled1000.png)
+[![Vpngraphic_final51](/images/vpngraphic_final51-scaled1000-w=300.png)](/images/vpngraphic_final51-scaled1000.png)
 
 **DD-WRT a TP-LINK WR1043ND WiFi Router-re**
 
