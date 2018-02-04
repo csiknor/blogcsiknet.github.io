@@ -1,0 +1,163 @@
+---
+author: csiknor
+comments: true
+date: 2012-01-08 20:26:00+00:00
+excerpt: Kapitány naplója, csak azért írom le, hogy később emlékezzek rá. Figyelem!
+  Nagyon hosszú bejegyzés, minden valóságalapot nélkülöz, ha engem kérdeznek. Úgy
+  alakult, hogy hozzám került egy iPhone. Kicsit időt is utazunk, ugyanis csak egy
+  3G. Arra eg...
+layout: post
+link: http://blog.csik.net/2012/01/08/iphone/
+slug: iphone
+title: iPhone
+wordpress_id: 87161015
+categories:
+- Kategória nélkül
+tags:
+- 3g
+- iphone
+---
+
+_Kapitany naploja, csak azert irom le, hogy kesőbb emlekezzek ra. Figyelem! Nagyon hosszu bejegyzes, minden valosagalapot nelkuloz, ha engem kerdeznek._
+
+Úgy alakult, hogy hozzam kerult egy iPhone. Kicsit időt is utazunk, ugyanis csak egy 3G. Arra egyebkent pont jo, amire kell.
+
+![Iphone_3g](http://csiknet.files.wordpress.com/2012/01/iphone_3g-jpeg-scaled500.jpg)
+
+**Jailbreak**
+
+Tobb okbol kifolyolag is. Főleg azert, mert csak igy tudom hasznalni. Mivel az elmult harom evben gyakorlatilag nem olvastam rola, ezert mindent elolről kellett kezdenem, szerencsere az internet teli van rengeteg hasznos anyaggal, es mar nem betakkal kell dolgoznom, mert reg kijottek a release-ek.
+
+Ket dolgot nem tudtam, ami jelentősen hatraltatott:
+
+  1. nekem custom firmware kell
+  2. az iPhone 3G tamogatasa megallt iOS 4.2.1-nel
+
+Az előbbi kabe fel napott vett el az eletemből. Az utobbi meg egyet, de csak a szoftvereknel, ugyanis, amit hasznalni akartam, rittig 4.3-as iOS-t kovetelt.
+
+A szaraz tenyek:
+
+  * redsn0w 0.9.6rc8
+  * iPhone3G_4.2.1_8C148_Custom
+
+**Cydia**
+
+Korabban azt hittem, hogy ez valami őrulten warez cucc, aztan kiderult, hogy nem, ez csak egy sima alkalmazas telepitő a beepitett - es durvan ellenőrzott - App Store melle.
+
+**Installous**
+
+Na, ez az őrulten warez cucc. Ha kell valami, ami amugy penzert van, jo esellyel le tudod tolteni a feltort valtozatat is. Figyelmeztet is a Cydia a telepitesekor, hogy mar tobben szoltak, hogy ez warez cucc, persze nem allithat meg, hogy ilyet telepits.
+
+**Push Notification**
+
+Az iPhone 3G nem tamogatja az alkalmazasok hatterben futasat. Örulok, hogy egyaltalan a futasukat tamogatja, bar inkabb cammogas ez.
+
+A Push Notification arra valo, hogy az alkalmazasok, amelyek nem tudnak a hatterben futni, tudjanak uzenetet kuldeni az iPhone-nak. Mindezt ugy teszik, hogy az App-ot biztosito ceg uzemeltet egy szervert, ami az Apple szerverein keresztul szol az iPhone-nak, hogy van valami ertesites.
+
+Persze nem az en iPhone-omnak, ugyanis, ha Jailbreak-elsz, akkor nincs Push Notification.
+
+Tobb megoldast csinaltak erre, a mostani, tudomasom szerint legjobb megoldas a [Subscriber Artificial Module (SAM)](http://www.thedailybuggle.com/enable-push-notifications-jailbroken-iphone/). Feltelepitettem, par probalkozas utan ment frankon.
+
+**App-ok**
+
+Temerdek alkalmazas all rendelkezesre, amiről előttem mar rengetegen irtak. Csak osszefoglalnam, hatha valakit erdekel:
+
+  * Mail: a beepitett levelező kliens, faszan műkodik GMail-el es a ceges IMAP-pal is
+  * Calendar: a beepitett naptar kliens, faszan műkodik Google Calendar-ral es reszben a ceges iCal naptarral is
+  * Contacts: a beepitett cimtar, a szemelyes kedvencem, eddig mindent tud, amit akarok (es en ilyen teren eleg sokat akarok)
+  * Springpad: a nevezett szolgaltatas kliense
+  * Skype: a masodik kedvencem, ha van wifi, mindenkit ezen hivok
+  * fring: ugyanugy, mint Skype-nal, csak itt a GTalk a fokusz
+  * Byline: RSS olvaso Google Reader forrassal es Twitter, Instapaper, Read it Later tamogatassal
+  * Reeder: RSS olvaso, mint az előző, csak sokkal szebb (es gyorsabb)
+  * Read it Later: amit hirtelen nincs ideje elolvasni az embernek, azt itt kesőbb el tudja - akar offline is
+  * Maps: a beepitett terkep (lasd kesőbbi fejezetet a navigaciorol)
+  * Todoist: a nevezett szolgaltatas kliense
+  * koponyeg.hu: a nevezett weboldal mobil felulete
+  * Camera: a beepitett fenykepező (eleg bena)
+  * Photos: a beepitett kepnezegető
+  * Calculator: a beepitett szamologep
+  * Settings: beallitasok
+  * Instagram: olyan nagy volt a hype az elmult harom evben ekorul, hogy kenytelen voltam felrakni -- talan nyomok vele egy 365-ot
+  * eBay: a nevezett szolgaltatas kliense
+  * Vatera: a nevezett szolgaltatas kliense
+  * Miso: a nevezett szolgaltatas kliense
+  * Facebook: a nevezett szolgaltatas kliense
+  * Google+: a nevezett szolgaltatas kliense
+  * Dropbox: a nevezett szolgaltatas kliense
+  * Shazam: szol a dal a radioban, ezt bekapcsolom, figyel, keres es kiirja, hogy mi a  szam cime, amit hallgatok -- beszaras!
+  * App Store: a beepitett alkalmazas bolt
+  * iTunes: a beepitett zenebolt
+  * YouTube: a nevezett szolgaltatas beepitett kliense
+  * Clock: a beepitett ora
+  * iPod: a beepitett zene es videolejatszo
+  * Weather: a beepitett időjarasjelentes (egy-az-egyben a Mac OS X-en levő azonos nevű Dashboard widget masolata)
+  * Notes: a beepitett jegyzettomb
+  * TV24: az azonos nevű weboldal TV műsor kliense
+  * Cydia: a Jailbreak-kel jott nyilt alkalmazas bolt
+  * Installous: Cydia-val telepitett, warez alkalmazas bolt
+  * Stocks: a beepitett arfolyam monitor
+  * Voice Memos: a beepitett (sosem inditottam meg el, gondolom) hangrogzito alkalmazas
+  * BpMenetrend: nem hivatalos, de annal szebb es jobb BKV menetrend
+  * Flickr: a foto megoszto oldal alkalmazasa, a gyors eleres erdekeben
+  * Portfolio: a Portfolio.hu alkalmazasa, online tőzsde adatok, riasztassal
+  * f.lux: termeszetesen itt is kell vedeni a szemet (sajnos 3G alatt erősen bugos, most epp kikapcsolt allapotban van)
+
+**Kvarcjatek**
+
+Nem mas ez, mint egy nagy kvarcjatek internet hozzaf
+eressel. Csillio-milliard jatek erhető el, penzert, ingyen, alkalmazason beluli vasarlassal egyarant. Ha mar unod a Facebook-on elerhető jatekokat, itt van meg sok ezer.
+
+Én csak parat tettem fel, csak, hogy kiprobaljam (persze):
+
+  * FlightControl: hajpolt jatek ingyenesen letoltve (meg nem jatszottam vele)
+  * Angry Birds: kotelező jatek, mindenkinek ki kell probalnia - egynek jo, de semmi extra
+  * Fruit Ninja: lasd az előzőt, nekem kicsit jobban tetszett
+  * Asphalt 5: kellett egy 3D-s autos jatek is, meglepő modon nagyon gyorsan futott - kap meg eselyt
+  * Mahjong: ezt csak Faterom miatt raktam fel, evek ota jatszik ilyennel, gondoltam megmutatom neki (meg nem latta)
+
+Az egyetlen jatek, amiert penz is adtam: **The Settlers** (0,79€). Eszmeletlenul kiraly, a kedvencem, tuti vegig jatszom. Nagyon jo a hangulata, ha regen szeretted es jatszottal vele, itt is kotelező darab.
+
+**Navigacio**
+
+Az egyik dolog, amire az iPhone-t hasznalni akartam az a navigacio. Tulajdonkepp nekem eleg a GPS jel es a Google Maps is, de azert olyan nincs, hogy egy rendes navigacios szoftvert ki ne probaljak.
+
+(Itt szivtam a legtobbet a 4.3-as iOS verzio hianyaval. A legtobb navigacio ezt igenyli, igy kenytelen vagyok korabbi verziokkal dolgozni.)
+
+Mivel a T a Navigon szoftvert adja alapbol a keszulekhez, gondoltam kiprobalom en is. Rovid palyafutasa alatt hasznalhatatlan volt, sosem talalta kellő gyorsasaggal es pontossaggal a jelet. Ellenben a beepitett Google Maps megfelelően rajzolt a terkepre, tehat a programban lehet valami.
+
+Termeszetesen az iGO volt a kovetkező, amit kiprobaltam, leven mar evek ota iGO felhasznalo vagyok, a csaladban ez a legelterjedtem navigacio. Dog lassan indult el, neha meg mindig leaall 10-20 masodperce, aztan megcsinal mindent, amit ezalatt mondtam neki.
+
+Az a baj a navigacioval, hogy nem eleg jo neki a 3G GPS jele. Lassu es nem eleg pontos, igy a kanyarrol-kanyarra navigalas nem tud műkodni.
+
+Viszont Google Maps-szel megtervezve az utat, tok jol tud kovetni, ami alapjan mar konnyebb a navigalas.
+
+**Gyakrolatban**
+
+Mindenkinek ki kell ezt probalni, elmondhatatlanul fasza. Tavolrol sem mutatta meg meg nekem minden tudasat, nem is uralom meg teljesen, de mar igy is.
+
+**Cimtar **A kedvencem: vegre minden ismerősom csoportba szerdve, nevvel, telefonokkal, emailekkel, szuletesnappal, cimmel elerhető, szinkronizalt a Mac-kel, a Google-lel, biztonsagba mentve a Time Machine-nel.
+
+**Üzenetek, email **Ugyanolyan konnyedseggel kezelem az SMS-eket, mint az emaileket, mindet kozvetlenul a telefonrol. Ha kell PDF-et, DOC-ot olvasok csatolmanybol, vagy rogton valaszolok. Mindegy, hol vagyok, ezekre ranezni egy perc.
+
+**VOIP **Ha van wifi, mar tolom is a Skype, GTalk valamelyiket, nincs is ennel egyszerűbb.
+
+**eBay, Vatera **A push notification hianya miatt meg lemaradok az aukciokrol, de legalabb marha gyorsan ra tudok nezni es tudok licitalni, ha arrol van szo.
+
+**Shazam **Ez kabe mar űrtechnika: szol a radio, odatartom, figyel, keres es megmondja, milyen szam szol. Beszaras!
+
+**Kozossegi **Twitter, Facebook, Google+, Miso -- egyre megy, mindegyiket rogton elerem.
+
+**Merul** Mint a dog. Ha nyuzom, a nappalt talan kibirja. Nincs kiut. Beszereztem aktiv autos tartot, ha kocsiban leszek, tolteni fogom. Naponta legalabb ketszer fel orat. Meg persze este, ha alszok, meg nappal, ha a cegnel vagyok. Szornyű!
+
+**Lassu** Eljart mar felette az idő. Keves benne a memoria, gyenge a processzor is. Egyszerre csak egy alkalmazas tud elfutni, ha eppen. Meg a Jailbreak is neheziti a dolgot, ott is futnak demonok.
+
+**Gyorsitas**
+
+Mint minden szamitogepnel, az iPhone-nal is igaz, hogy ha a nem hasznalt dolgokat eltavolitjuk, kikapcsoljuk, akkor gyorsabb lesz az egesz. Én a kovetkezőket vegeztem el egy kapcsolodo leiras alapjan:
+
+  * Spotlight csak a cimtarban keressen, mast ne indexszeljen
+  * Toroltem a javasolt demonokat
+  * Toroltem a nem hasznaltam nyelveket (a japant is)
+
+Az eredmeny: talan tenyleg gyorsabb lett, de meg nem mernem egyertelműen kijelenteni.

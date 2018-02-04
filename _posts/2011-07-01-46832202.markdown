@@ -1,0 +1,56 @@
+---
+author: csiknor
+comments: true
+date: 2011-07-01 16:55:00+00:00
+excerpt: Nemrég ismételten lecseréltem a digitális fényképezőmet. Nem cserélgetem
+  túl gyakran, mindig igyekszem kihasználni az adott gépet, de ha eljár felette az
+  idő, vagy megnőnek az igények, cserélni kell. Most az eddigi nagy kedvenc Panasonic
+  Lumix DMC...
+layout: post
+link: http://blog.csik.net/2011/07/01/46832202/
+slug: '46832202'
+title: A digitális fényképezés ára
+wordpress_id: 46832202
+categories:
+- Kategória nélkül
+tags:
+- fényképezés
+---
+
+Nemreg ismetelten lecsereltem a digitalis fenykepezőmet. Nem  cserelgetem tul gyakran, mindig igyekszem kihasznalni az adott gepet, de  ha eljar felette az idő, vagy megnőnek az igenyek, cserelni kell.
+
+Most az eddigi nagy kedvenc Panasonic Lumix DMC-FZ50 bridge digitalis  fenykepezőt csereltem le egy Olympus E-520 digitalis tukorreflexes  gepre. Az apropo kapcsan elgondolkodtam, hogy az eddigi csereim hogy  sikerultek, mind anyagilag, mind szakmai szempontbol.
+
+**Előzmenyek**
+
+Eddig hat kulonboző gepem volt:
+
+  * [FujiFilm FinePix 4800Z](http://www.dpreview.com/reviews/specs/FujiFilm/fuji_finepix4800z.asp)
+  * [Canon PowerShoot A520](http://www.dpreview.com/reviews/specs/Canon/canon_a520.asp)
+  * [Sony Cyber-shot DSC-H7](http://www.dpreview.com/reviews/specs/Sony/sony_dsch7.asp)
+  * [Panasonic Lumix DMC-FZ50](http://www.dpreview.com/reviews/specs/Panasonic/panasonic_dmcfz50.asp)
+  * [Zenit 12XP](http://www.csik.net.datasphere.hu/wordpress/2009/07/ez-elso-tukorreflexes-fenykepezogepem-zenit-12xp/) (aktualis)
+  * [Olympus E-520](http://www.dpreview.com/reviews/specs/Olympus/oly_e520.asp) (aktualis)
+
+A FinePix-et meg batyamtol vettem meg, első gep volt. A Canon-t mar  en valasztottam, ahogy emlekszem a lenyeg csak az volt, hogy legyen  kicsit okosabb, ugyesebb, de zsebben hordhato. Nalam is volt, kicsit  tobb, mint 2 evig.
+
+Aztan jott a H7-es Sony, aminel mar a nagy tele jatszotta a fő  szerepet. Itt kezdtem megismerkedni magaval a fotozassal es ra kellett jonnom, hogy ezzel a geppel nem lehet mar alap dolgokat sem megcsinalni. El  is adtam egy bő ev utan.
+
+Eztan mar ugy valasztottam, hogy a lehető legjobb gep legyen, ami meg  nem digitalis tukorreflexes. Hogy miert? Mert nem akartam a gatyamat  rakolteni a tartozekokra, objektivekre, stb. Nekem a fenykepezes csak  hobbi, tobb szazezres gep es objektiv nem illik bele a kepbe. Keves  tudas, es egy - mint utolag kiderult - remek tanacs alapjan  valasztottam az FZ50-est. Ez mar akkor is oreg gepnek szamitott, de a legujabb Fujifilm FinePix S100FS, amit konkurencianak tartottam se tudott annyit, nem volt annyira jo, mint az FZ50.
+
+Nem is bantam meg azota sem a vetelt, rengeteget tanultam es fenykepeztem az FZ50-nel. Vettem hozza kulonboző kiegeszitőket, hogy egy-egy specialis beallitast, megoldast is alkalmazni tudjak: volt polar szűrőm, termeszetes szűrőm, nagylato konverzios lencsem, tavkioldom, kulső vakum es allvanyom is. Ezek persze mind penzbe kerultek, de mivel maga az objektiv nem volt cserelhető, ezert meglehetősen korlatozott volt, hogy mit vehetek meg hozza, igy a budzset is szorosan tudtam tartani.
+
+Gyakorlatilag mindent meg tudtam csinalni vele, amit akartam, de par dolog azert kezdett egyre jobban zavarni: zajos kepek rossz fenyviszonyok mellett, lassu auto fokusz es a kis melysegelesseg hianya. Mivel az elkepzelesem a budzseről tovabbra sem valtozott meg, ezert egy kompromisszumos megoldast valasztottam. [Így jott a kepbe az Olympus E-520 DSLR gep.](http://blog.csik.net/tukorreflexesre-valtottam)
+
+**A fenykepek ara**
+
+Bar hajlamosak lehetunk azt gondolni, hogy a digitalis technologiaval keszitett fenykepek ingyen vannak az előhivas pillanataig, ki kell abranditsak mindenkit: nem. Nyilvan sokkal olcsobb, mintha analog gepről es papir kepekről beszelnenk, de az eszkozok ara meg igy is az elkeszult fenykepek előallitasi koltseget noveli.
+
+Az eddigi gepeimről keszitettem egy gyors tablazatot, amiben osszeszedtem, hogy mennyit koltottem rajuk, mennyit kaptam ertuk, amikor eladtam őket, majd elosztottam a keszitett fenykepek szamaval.
+
+  * FujiFilm 4800z - olcson vettem, hasznaltan es jo sokaig es sok kepet keszitettem vele: **4 Ft / kep**
+  * Canon A520 - ezt mar dragabban vettem, hasznaltam jo sokaig, de nem keszult vele annyi kep: **14,30 Ft / kep**
+  * Sony H7 - kicsit meg tobbet kellett ra kolteni, nem volt nalam olyan sok ideig, de eleg sok kep keszult vele: **13,10 Ft / kep**
+  * Panasonic FZ50 - az eddigiekhez kepest meg tobbet koltottem ra, sokat volt nalam, rengeteg kep keszult vele: **12,20 Ft / kep**
+
+Az Olympusnal meg nem tudom, hogy mennyi az annyi, mert meg nem adtam el, tehat nem tudom, hogy mennyit koltottem ra, de az biztos, hogy jo sok kepet kell keszitenem vele, hiszen valoszinűleg erre is tobbet koltok, mint a korabbikra. (Kulonos tekintettel arra, hogy tobb, mint valoszinű, hogy erre meg egyeb speci objektiveket is fogok venni.)
