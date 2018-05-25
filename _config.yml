@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Csik.NET blog
-email: norbert.csik@gmail.com
+email: norbert@csik.net
 description: >- # this means to ignore newlines until "baseurl:"
   A személyes blogom technológiáról, megoldásokról és személyes véleményekről
-baseurl: "/blogcsiknet.github.io" # the subpath of your site, e.g. /blog
-url: "https://csiknor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://blog.csik.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: csiknor
 github_username:  csiknor
 
