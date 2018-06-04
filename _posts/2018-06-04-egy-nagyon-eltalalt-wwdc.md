@@ -1,5 +1,16 @@
 ---
 published: true
+author: csiknor
+layout: post
+date: 2018-06-04T22:53:12.000Z
+categories:
+  - Véleménz
+  - Tech
+tags:
+  - Apple
+  - iOS
+  - MacOS
+  - watchOS
 ---
 ## Egy nagyon eltalált WWDC
 
