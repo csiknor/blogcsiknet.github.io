@@ -4,7 +4,7 @@ author: csiknor
 layout: post
 date: 2018-06-04T22:53:12.000Z
 categories:
-  - Véleménz
+  - Vélemény
   - Tech
 tags:
   - Apple
