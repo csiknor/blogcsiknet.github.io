@@ -3,7 +3,7 @@ published: true
 author: csiknor
 layout: post
 title: Egy nagyon eltalált WWDC
-date: 2018-06-04 22:53:14.000+02:00
+date: 2018-06-04 22:53:14+02:00
 categories:
   - Vélemény
   - Tech
@@ -13,7 +13,6 @@ tags:
   - MacOS
   - watchOS
 ---
-
 
 Aligha szoktam követni az Apple WWDC eseményeket, a mai napon mégis emlékeztem, hogy lesz. Sajnos élőben követni nem tudtam, de nagy örömömre szolgált látni a bejelentett funkciók egy részét. Ezek egytől-egyig olyan dolgok, amiket tuti használni fogok. 
 
