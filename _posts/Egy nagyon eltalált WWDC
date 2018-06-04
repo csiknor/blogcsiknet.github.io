@@ -2,7 +2,8 @@
 published: true
 author: csiknor
 layout: post
-date: {}
+title: Egy nagyon eltalált WWDC
+date: 2018-06-04 22:53:14.000+02:00
 categories:
   - Vélemény
   - Tech
@@ -12,11 +13,11 @@ tags:
   - MacOS
   - watchOS
 ---
-## Egy nagyon eltalált WWDC
+
 
 Aligha szoktam követni az Apple WWDC eseményeket, a mai napon mégis emlékeztem, hogy lesz. Sajnos élőben követni nem tudtam, de nagy örömömre szolgált látni a bejelentett funkciók egy részét. Ezek egytől-egyig olyan dolgok, amiket tuti használni fogok. 
 
-### iOS
+## iOS
 
 **Teljesítmény** Ki ne örülne jobb teljesítménynek? Tekintve, hogy öregecske már ez az iPhone 6, nagyon jó látni az odafigyelést.
 
@@ -30,12 +31,12 @@ Aligha szoktam követni az Apple WWDC eseményeket, a mai napon mégis emlékezt
 
 **Külsős navigáció CarPlay-en** A futottak még kategóriában! Jó ideje ezt kértem már karácsonyra, most végre itt van. Hallod, Waze?!
 
-### macOS
+## macOS
 
 **Sötét mód** Esti baglyoknak. Mac-et a munkahelyemre is!
 
-### watchOS
+## watchOS
 
 **Futó iram figyelmeztetés** Minden alkalmazástól ezt várom el, és végre itt van, ráadásul a beépített hozza!
 
-**Adó-vevő** Már látom, ahogy a kollégákkal szorakozunk a szinten. 
+**Adó-vevő** Már látom, ahogy a kollégákkal szorakozunk a szinten. 😀
