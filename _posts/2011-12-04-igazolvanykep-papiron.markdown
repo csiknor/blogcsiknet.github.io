@@ -28,6 +28,6 @@ Hat nekem is egy hasonlo helyzettel kellett megkuzdenem: Anitanak kellett egy sp
 
 A Google epp annyira kellett, hogy megtalaljam az [idphoto4you.com](http://hu.idphoto4you.com/) oldalt, ahol egy alkalmas fenykepből rohogve lehet előhivasra alkalmas fenykepet csinalni.
 
-![Make_passport_photo]({{site.baseurl}}/images/make_passport_photo-jpeg-scaled500.jpg)
+![Make_passport_photo](/images/make_passport_photo-jpeg-scaled500.jpg)
 
 A ket-harom lepest elvegezve mar a kezemben is volt a szukseges 10x15-os meretű JPEG fajl, amivel siettem a MediaMarkt-ba, ott ugyanis azonnal ki is lehet nyomtatni, potom 50 Ft-ert. _(Engem mondjuk epp hatraltatott harom tinicsaj, akik valami irto fontos esemenyről, kb 900 kep kozul kivalasztva vagy 20-at, egyenkent vegigrohogcselve, kerettel, vicces grafikakkal ellatva, mintegy 15-20 perc alatt vegeztek. Lanyos apukakent latva a jovőmet, tobb nagy levegővel turtőztettem magam.)_

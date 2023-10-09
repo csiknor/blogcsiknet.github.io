@@ -26,7 +26,7 @@ Mondhatom, hogy eleg regota fenykepezek hobbi szinten, de mindig is szerettem vo
 
 Az első igazan fenykepezőnek nevezhető keszulekem a Panasonic Lumix DMC-FZ50 bridge fenykepező volt. Ez egy kellően jo minősegű, nagy tudasu, meg nem cserelhető objektives fenykepező. Erőssege, hogy nagyon jo optikat epitettek bele (Leica DC Vario-Elmarit 1:2.8-3.7 / 35-420 mm [35mm ekviv.]) es remek funkcionalis adottsagokkal (optikai kepstabilizator, 1/1,8" CCD, kezi vario gyűrű) es nem utolsosorban kivalo kiegeszitesi lehetősegekkel rendelkezik (kulső vakupapucs, előtetlencse es szűrőcsatlakoztathatosag).
 
-[![Img_1472_panasonic_fz50_03]({{site.baseurl}}/images/img_1472_panasonic_fz50_03-scaled1000-w=300.jpg)]({{site.baseurl}}/images/img_1472_panasonic_fz50_03-scaled1000.jpg)![Metz_48_af-1]({{site.baseurl}}/images/metz_48_af-1-scaled500.jpg)![3261471784_ee10314812]({{site.baseurl}}/images/3261471784_ee10314812-scaled500.jpg)
+[![Img_1472_panasonic_fz50_03](/images/img_1472_panasonic_fz50_03-scaled1000-w=300.jpg)](/images/img_1472_panasonic_fz50_03-scaled1000.jpg)![Metz_48_af-1](/images/metz_48_af-1-scaled500.jpg)![3261471784_ee10314812](/images/3261471784_ee10314812-scaled500.jpg)
 
 Ennek megfelelően meg is ismerkedtem a segitsegevel a fenykepezes alapszabalyaival, es bővitettem is a felszerelesem egy-ket nagyon hasznos kiegeszitővel. Ilyen volt peldaul a Raynox HD-6600Pro-55 nagylatoszogű előtetlencse, a Metz Mecablitz 48 AF-1 digital vaku, az ND8-as termeszetes- es a cirkularis polarszűrő is.
 
@@ -40,7 +40,7 @@ Mivel tovabbra is szerettem volna megtartani a regi elkepzelesem a hobbifotozasr
 
 Az ar/ertek osszehasonlitasok alapjan az Olympus E-520 Double Zoom Kit mellett dontottem. A nemet eBay-en sikerult elfognom egy kellően jo ajanlatot, ahol beszereztem a keszuleket. A dobozban a vaz melle jart egy ZUIKO DIGITAL ED 14-42mm 1:3.5-5.6 es egy ZUIKO DIGITAL ED 40-150mm 1:4.0-5.6 objektiv.
 
-![4088793275_0cca0a9113]({{site.baseurl}}/images/4088793275_0cca0a9113-scaled500.jpg)[![Compared_oly]({{site.baseurl}}/images/compared_oly-scaled1000-w=300.jpg)]({{site.baseurl}}/images/compared_oly-scaled1000.jpg)[![Sidebyside]({{site.baseurl}}/images/sidebyside-scaled1000-w=300.jpg)]({{site.baseurl}}/images/sidebyside-scaled1000.jpg)
+![4088793275_0cca0a9113](/images/4088793275_0cca0a9113-scaled500.jpg)[![Compared_oly](/images/compared_oly-scaled1000-w=300.jpg)](/images/compared_oly-scaled1000.jpg)[![Sidebyside](/images/sidebyside-scaled1000-w=300.jpg)](/images/sidebyside-scaled1000.jpg)
 
 A kivalasztas soran termeszetesen sok leirast es velemenyt elolvastam es ezek tudataban valasztottam. Megis, amikor kezbefogtam a gepet (csak vasarlas utan fogdostam meg) előszor azt hittem, hogy hibat kovettem el: a gep meretben szinte teljesen megegyezett az FZ50-nel, sőt, talan meg kisebbnek is tűnt. Így előszor azt hittem, hogy rossz gepet valasztottam, de aztan ahogy elkezdtem hasznalni, megmutatta az igazi erejet. Persze nem szabad osszehasonlitani egy komoly DSLR fenykepezővel, ez csak egy belepőszintű negyharmados gep, amiből mar most kaphato jobb az Olympus termekvonalaban is (E-620, meg 100-150€-ert). Meretben pedig a tobbi belepőszintű DSLR is ekkora. Tulajdonkeppen az FZ50 a nagy.
 

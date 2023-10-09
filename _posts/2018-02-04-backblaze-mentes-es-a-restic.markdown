@@ -22,13 +22,11 @@ Bár létezik ARM architektúrára is fordított bináris, a NAS túl gyengének
 
 Elsőként a `Backblaze` fiók és azon belül egy "bucket" létrehozása a feladat. 
 
-![Bucket létrehozása]({{site.baseurl}}/images/backblaze-bucket.png)
-
-{{site.baseurl}}
+![Bucket létrehozása](/images/backblaze-bucket.png)
 
 Ne felejtsük el kiolvasni a fiókhoz tartozó azonosítót és titkos kulcsot sem. 
 
-![Account ID kiolvasás]({{site.baseurl}}/images/backblaze-account-id.png)
+![Account ID kiolvasás](/images/backblaze-account-id.png)
 
 ## Szükséges szoftverek telepítése
 

@@ -37,7 +37,7 @@ A hordozhato lejatszok nagyon jok, sok zene fer rajuk, de meg mindig sajat kolle
 
 Sajnos nem tudom az osszes albumot cipelni magammal - nem is lenne ertelme -, igy nekem egy olyan megoldast kellett talalnom, amivel kepes vagyok ezeket az igenyeket egyszerre kielegiteni.
 
-[![Last]({{site.baseurl}}/images/last-fm-scaled1000-w=300.png)]({{site.baseurl}}/images/last-fm-scaled1000.png)[![Grooveshark]({{site.baseurl}}/images/grooveshark-scaled1000-w=300.png)]({{site.baseurl}}/images/grooveshark-scaled1000.png)[![Deezer]({{site.baseurl}}/images/deezer-scaled1000-w=300.png)]({{site.baseurl}}/images/deezer-scaled1000.png)[![Spotify]({{site.baseurl}}/images/spotify-scaled1000-w=300.png)]({{site.baseurl}}/images/spotify-scaled1000.png)
+[![Last](/images/last-fm-scaled1000-w=300.png)](/images/last-fm-scaled1000.png)[![Grooveshark](/images/grooveshark-scaled1000-w=300.png)](/images/grooveshark-scaled1000.png)[![Deezer](/images/deezer-scaled1000-w=300.png)](/images/deezer-scaled1000.png)[![Spotify](/images/spotify-scaled1000-w=300.png)](/images/spotify-scaled1000.png)
 
 Előszor a [**Last.fm**](http://last.fm)-mel hozott ossze a sors, amit nagyon szeretek, főleg azt, hogy vezeti, hogy milyen szamokat hallgatok, ami alapjan kepes az izlesemnek megfelelő dalokat ajanlani, ha megadom, hogy milyen szambol induljon ki. Így talaltam ra a Disturbed-re is, es igy derult ki szamomra, hogy milyen sokat hallgatom a 3 Doors Down-t.
 

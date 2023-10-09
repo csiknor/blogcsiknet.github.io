@@ -17,7 +17,7 @@ tags:
 - forma-1
 ---
 
-[![Image]({{site.baseurl}}/images/image-aspx-jpeg-scaled1000-w=300.jpg)]({{site.baseurl}}/images/image-aspx-jpeg-scaled1000.jpg)
+[![Image](/images/image-aspx-jpeg-scaled1000-w=300.jpg)](/images/image-aspx-jpeg-scaled1000.jpg)
 
 Lassan itt az idei evad első futama, ismet par valtozas, lesz mire figyelni. Nehany kerdes, ami nagyon foglalkoztat, hogy fog alakulni az evad soran:
 

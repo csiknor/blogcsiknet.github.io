@@ -18,7 +18,7 @@ tags:
 
 Most olvasom a Twitteren, hogy tegnap meg Fibonacci nap volt. (Olyan, mint a [nemzetközi π-nap](http://hu.wikipedia.org/wiki/Nemzetk%C3%B6zi_%CF%80-nap), csak ez ritkábban van. Sokkal ritkábban.)
 
-https://twitter.com/neiltyson/status/332308121605255168
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">[May 8, 2013] Happy Fibonacci day: 0 - 1 - 1 - 2 - 3 - [ 5 - 8 - 13 ] - 21 - 34 - 55 - 89 - 144 … Next one is Aug 13, 2021</p>&mdash; Neil deGrasse Tyson (@neiltyson) <a href="https://twitter.com/neiltyson/status/332308121605255168?ref_src=twsrc%5Etfw">May 9, 2013</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Ügyesen írja is emberünk, hogy a következőre 2021-ig kell várni.
 

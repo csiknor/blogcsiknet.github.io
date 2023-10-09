@@ -33,7 +33,7 @@ A terv az, hogy a lepcső alatt letrehozok egy kis kozpontot:
   * NAS
   * (Lehetőseg tovabbi eszkoz beszerelesere)
 
-[![Ultimate_home_theater-753099]({{site.baseurl}}/images/ultimate_home_theater-753099-scaled1000-w=300.jpg)]({{site.baseurl}}/images/ultimate_home_theater-753099-scaled1000.jpg)
+[![Ultimate_home_theater-753099](/images/ultimate_home_theater-753099-scaled1000-w=300.jpg)](/images/ultimate_home_theater-753099-scaled1000.jpg)
 
 Az elkepzeles a kovetkező:
 

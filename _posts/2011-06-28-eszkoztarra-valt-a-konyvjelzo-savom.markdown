@@ -18,7 +18,7 @@ tags:
 - könyvjelző
 ---
 
-[![Bookmark_bar]({{site.baseurl}}/images/bookmark_bar-scaled1000-w=300.png)]({{site.baseurl}}/images/bookmark_bar-scaled1000.png)
+[![Bookmark_bar](/images/bookmark_bar-scaled1000-w=300.png)](/images/bookmark_bar-scaled1000.png)
 
 Korai allapotaban az egyes konyvjelzők meg neveket is tartalmaztak, de ahogy egyre tobb oldal jott be es en egyre tobbmindent akartam egy kattintassal elerni, ugy csokkent azon oldalak szama, ahol a favicon (az oldal ikonja, ami az adott URL-hez tartozik) mellett a nev is megjelent.
 

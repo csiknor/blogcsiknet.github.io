@@ -28,7 +28,7 @@ Amiota okoskodok a telefonnal, ra kellett jonnom, hogy ugyanugy nem nezem meg a 
 
 Ruhellem folyton nezni, hogy mit kell csinalni es mikor.
 
-![Notifications_hero]({{site.baseurl}}/images/notifications_hero-scaled500.jpg)
+![Notifications_hero](/images/notifications_hero-scaled500.jpg)
 
 Szerencsere ez mar a szep, uj, fenyes jovő, igy rendelkezesre allnak olyan eszkozok, amivel nem nekem kell frissitgetni, megcsinalja azt helyettem a gep. És itt most nem hulye időnkenti frissitesre gondolok. Ha bekovetkezik az esemeny, a telefon ertesul rola. **Push, nem Pull!**
 

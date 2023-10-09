@@ -24,7 +24,7 @@ Mar jo par honappal ezelőtt kifejtettem ezt a velemenyem adott helyzetekre reag
 
 Nezzuk az en esetemet.
 
-[![2011-08-11-facbook-messenger-706-410]({{site.baseurl}}/images/2011-08-11-facbook-messenger-706-410-jpeg-scaled1000-w=300.jpg)]({{site.baseurl}}/images/2011-08-11-facbook-messenger-706-410-jpeg-scaled1000.jpg)
+[![2011-08-11-facbook-messenger-706-410](/images/2011-08-11-facbook-messenger-706-410-jpeg-scaled1000-w=300.jpg)](/images/2011-08-11-facbook-messenger-706-410-jpeg-scaled1000.jpg)
 
 Az SMS alternativaja nalam egyertelműen az okostelefon es a Facebook Messenger. Ennek a kettőnek a gyilkos kombinacioja ugyanis lehetőve teszi, hogy barki - kiveve, akit nem nemitok el - kepes legyen uzenetet kuldeni nelkem ugy, hogy az azonnal megjelenik a telefonon. Minden fele kulon erőfeszites nelkul - termeszetesen push notification segitsegevel.
 

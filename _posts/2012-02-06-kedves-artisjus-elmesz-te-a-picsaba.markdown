@@ -20,7 +20,7 @@ tags:
 
 Ki nem allhatom, ha valaki olyan dologert szed dijat, amit a masik nem vesz igenybe. Az, hogy ures adathordozokert jogdijat kell fizetnunk, tobb mint felhaborito.
 
-[![20110218artisjusm1]({{site.baseurl}}/images/20110218artisjusm1-scaled1000-w=300.jpg)]({{site.baseurl}}/images/20110218artisjusm1-scaled1000.jpg)
+[![20110218artisjusm1](/images/20110218artisjusm1-scaled1000-w=300.jpg)](/images/20110218artisjusm1-scaled1000.jpg)
 
 Kurvara nem erdekel, hogy sokan lopjak a zenet, a filmet es ezt CD-re, DVD-re, MP3 lejatszora, memoriakartyara, kulső merevlemere mentik le es mindezert azokat kotelezik jogdij fizetesre, akik CD-t, DVD-t, MP3 lejatszt, kulső merevlemezt vasarolnak.
 

@@ -22,7 +22,7 @@ _Kapitany naploja, csak azert irom le, hogy kesőbb emlekezzek ra. Figyelem! Nag
 
 Úgy alakult, hogy hozzam kerult egy iPhone. Kicsit időt is utazunk, ugyanis csak egy 3G. Arra egyebkent pont jo, amire kell.
 
-![Iphone_3g]({{site.baseurl}}/images/iphone_3g-jpeg-scaled500.jpg)
+![Iphone_3g](/images/iphone_3g-jpeg-scaled500.jpg)
 
 **Jailbreak**
 

@@ -40,4 +40,4 @@ A palyakba kellene roviditeseket, levagasokat rakni. Nem lennenek  minden esetbe
 
 Aztan persze itt van Bernie Ecclestone altal felvetett otletek, melyeket a nemet [Bild](http://www.bild.de/sport/motorsport/bernie-ecclestone/traeumt-von-action-formel-1-17011076.bild.html) egyetlen palyara, a Hungaroring-re sűritett be. Van itt minden: a dontott kanyartol az ugraton at egeszen a hurokig.
 
-![Formel_1_strecke]({{site.baseurl}}/images/formel_1_strecke-jpeg-scaled500.jpg)
+![Formel_1_strecke](/images/formel_1_strecke-jpeg-scaled500.jpg)

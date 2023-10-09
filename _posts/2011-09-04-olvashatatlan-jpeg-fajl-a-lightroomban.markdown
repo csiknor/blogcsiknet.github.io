@@ -21,7 +21,7 @@ tags:
 
 Tortent, hogy a fenykepezőről kartyaolvaso segisegevel beolvastam JPEG fajlokat az Adobe Lightroom-mal. Latszolag semmi problema nem volt, a kep bekerult a megfelelő konyvtarba, az előkepe szepen latszott is.
 
-[![Lightroom_-_the_file_appears_to_be_unsupported_or_damaged]({{site.baseurl}}/images/lightroom_-_the_file_appears_to_be_unsupported_or_damaged-scaled1000-w=300.png)]({{site.baseurl}}/images/lightroom_-_the_file_appears_to_be_unsupported_or_damaged-scaled1000.png)
+[![Lightroom_-_the_file_appears_to_be_unsupported_or_damaged](/images/lightroom_-_the_file_appears_to_be_unsupported_or_damaged-scaled1000-w=300.png)](/images/lightroom_-_the_file_appears_to_be_unsupported_or_damaged-scaled1000.png)
 
 Viszont, amikor szerkeszteni szerettem volna, az Adobe Lightroom felhivta a figyelmem arra, hogy _"the file appears to be unsupported or damaged"_. Mivel egyszerű JPEG fajlrol volt szo, inkabb az utobbira gyanakodtam, igy megneztem a fajlt mas eszkozzel is: Xee es Adobe Photoshop.
 
